@@ -16,7 +16,7 @@
 ThinkAgain is the ultimate app for anyone who feels that their decisions are just too simple and could use a lot more unnecessary complexity. Designed to turn minor, everyday choices into epic internal struggles, ThinkAgain brings the world of overthinking to your fingertips. Whether you’re debating what shirt to wear or which snack to pick, ThinkAgain takes your decisions and transforms them into full-blown, life-altering predicaments with intricate pros and cons, hypothetical scenarios, and plenty of second-guessing encouragement.
 
 ### The Problem (that doesn't exist)
-ThinkAgain tackles the “problem” of making decisions too quickly by turning even the simplest choices into complex, overblown dilemmas. It’s perfect for chronic overthinkers who crave endless second-guessing, adding layers of hypothetical disasters to every decision so you’re never really sure.
+People are forced to make quick choices, missing out on the joy of overthinking every little detail. For the chronic overthinker, there’s no tool to turn tiny decisions into epic dilemmas—until now.
 ### The Solution (that nobody asked for)
 ThinkAgain makes every tiny decision feel monumental by adding wild “what-ifs,” endless pros and cons, and last-minute curveballs. It’s designed to keep you overthinking forever—because why decide when you can endlessly doubt?
 ## Technical Details
