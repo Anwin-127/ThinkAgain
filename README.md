@@ -24,26 +24,26 @@ ThinkAgain makes every tiny decision feel monumental by adding wild “what-ifs,
 
 **Languages Used:**
 
-- ◦ **Dart** – Powers the front-end logic.
-- ◦ **JavaScript (Node.js)** – Handles backend operations and manages server-side interactions with the model.
+-  **Dart** – Powers the front-end logic.
+-  **JavaScript (Node.js)** – Handles backend operations and manages server-side interactions with the model.
 
 **Frameworks Used:**
 
-- ◦ **LLaMA (3B-8B-8192)** – Deployed on the server for language model processing, with access managed via an API key from Groq.
-- ◦ **Flutter** – Provides the responsive and interactive user interface.
+-  **LLaMA (3B-8B-8192)** – Deployed on the server for language model processing, with access managed via an API key from Groq.
+-  **Flutter** – Provides the responsive and interactive user interface.
 
 **Libraries Used:**
 
-- ◦ **Google Fonts** – Ensures consistent and attractive typography across the UI.
-- ◦ **HTTP Client** – Manages secure and efficient network requests between the frontend and backend.
+-  **Google Fonts** – Ensures consistent and attractive typography across the UI.
+-  **HTTP Client** – Manages secure and efficient network requests between the frontend and backend.
 
 **Tools Used:**
 
-- ◦ **VS Code** and **Android Studio** – Primary development environments for efficient coding, testing, and debugging.
+-  **VS Code** and **Android Studio** – Primary development environments for efficient coding, testing, and debugging.
 
 **Hosting:**
 
-- ◦ The backend server is deployed on **Render** for scalable and reliable performance.
+-  The backend server is deployed on **Render** for scalable and reliable performance.
 
 ### Implementation
 
