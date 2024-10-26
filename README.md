@@ -22,6 +22,7 @@ ThinkAgain makes every tiny decision feel monumental by adding wild “what-ifs,
 ## Technical Details
 ### Technologies/Components Used
 For Software:
+
 Languages Used:
 
 Dart – Powers the front-end logic.
@@ -45,6 +46,7 @@ Hosting:
 The backend server is deployed on Render for scalable and reliable performance.
 ### Implementation
 For Software:
+
 This project is developed using Dart for front-end logic and Node.js for the backend, where LLaMA (3B-8B-8192) is hosted and executed to handle language processing tasks. The Flutter framework drives the UI for a seamless, responsive experience. The application interacts with the model using an API key from Groq to enable secure access. Key libraries, including Google Fonts for typography and HTTP Client for handling network requests, further enhance the experience. The server is deployed on Render for scalable hosting, with development carried out in VS Code and Android Studio.
 # Installation
 1. **Download the APK File**: Download the APK file from Google Drive using [this link](https://drive.google.com/drive/folders/1FYgKQ7eeaWdVYP6NwKbz3_sj_0u-bSLz?usp=sharing).
