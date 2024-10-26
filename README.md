@@ -44,7 +44,6 @@ VS Code and Android Studio – Primary development environments for efficient co
 
 The backend server is deployed on Render for scalable and reliable performance.
 ### Implementation
-For Software:
 
 This project is developed using Dart for front-end logic and Node.js for the backend, where LLaMA (3B-8B-8192) is hosted and executed to handle language processing tasks. The Flutter framework drives the UI for a seamless, responsive experience. The application interacts with the model using an API key from Groq to enable secure access. Key libraries, including Google Fonts for typography and HTTP Client for handling network requests, further enhance the experience. The server is deployed on Render for scalable hosting, with development carried out in VS Code and Android Studio.
 # Installation
