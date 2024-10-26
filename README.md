@@ -35,7 +35,11 @@ For Software:
      - Transfer the downloaded `base.apk` to your Android device.
      - Open the file on your device to initiate installation (you may need to allow installations from unknown sources in your device settings).
 # Run
-flutter run
+After installing the APK, you can launch the app:
+Open Manually on the Device
+1. Find the app icon on your device's home screen or app drawer.
+2. Tap on it to open the app.
+
 
 ### Project Documentation
 For Software:
