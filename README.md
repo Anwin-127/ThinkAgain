@@ -28,6 +28,7 @@ For Software:
 - Tools used:VS Code,Android Studio,Render
 ### Implementation
 For Software:
+This project utilizes Dart for front-end logic and JavaScript (Node.js) for server interactions. The Flutter framework powers the UI, delivering a responsive and intuitive interface. LLaMA (3B-8B-8192) serves as the foundational model for robust language processing capabilities, while libraries like Google Fonts and HTTP Client enhance the visual style and network handling. Development is conducted in VS Code and Android Studio, and Render is utilized for deployment, ensuring streamlined coding and testing across devices.
 # Installation
 1. **Download the APK File**: Download the APK file from Google Drive using [this link](https://drive.google.com/drive/folders/1FYgKQ7eeaWdVYP6NwKbz3_sj_0u-bSLz?usp=sharing).
 
