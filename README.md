@@ -16,29 +16,30 @@
 ThinkAgain is the ultimate app for anyone who feels that their decisions are just too simple and could use a lot more unnecessary complexity. Designed to turn minor, everyday choices into epic internal struggles, ThinkAgain brings the world of overthinking to your fingertips. Whether you’re debating what shirt to wear or which snack to pick, ThinkAgain takes your decisions and transforms them into full-blown, life-altering predicaments with intricate pros and cons, hypothetical scenarios, and plenty of second-guessing encouragement.
 
 ### The Problem (that doesn't exist)
-ThinkAgain tackles the “problem” of making decisions too quickly by turning even the simplest choices into complex, overblown dilemmas. It’s perfect for chronic overthinkers who crave endless second-guessing, adding layers of hypothetical disasters to every decision so you’re never really sure.
+People are forced to make quick choices, missing out on the joy of overthinking every little detail. For the chronic overthinker, there’s no tool to turn tiny decisions into epic dilemmas—until now.
 ### The Solution (that nobody asked for)
 ThinkAgain makes every tiny decision feel monumental by adding wild “what-ifs,” endless pros and cons, and last-minute curveballs. It’s designed to keep you overthinking forever—because why decide when you can endlessly doubt?
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- Languages used:Dart,JavaScript
+- Frameworks used:LLama 3B-8B-8192 for Model,Flutter for UI
+- Libraries used:Google Fonts,HTTP Client
+- Tools used:VS Code,Android Studio
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. **Download the APK File**: Download the APK file from Google Drive using [this link](https://drive.google.com/drive/folders/1FYgKQ7eeaWdVYP6NwKbz3_sj_0u-bSLz?usp=sharing).
 
+2. **Install the APK on Your Android Device**:
+     - Transfer the downloaded `base.apk` to your Android device.
+     - Open the file on your device to initiate installation (you may need to allow installations from unknown sources in your device settings).
 # Run
-[commands]
+After installing the APK, you can launch the app:
+Open Manually on the Device
+1. Find the app icon on your device's home screen or app drawer.
+2. Tap on it to open the app.
+
 
 ### Project Documentation
 For Software:
@@ -46,49 +47,43 @@ For Software:
 # Screenshots (Add at least 3)
 <img width="500" alt="srnsht1" src="ThinkAgain/1.jpg">
 
-*Add caption explaining what this shows*
+*Home page of the app*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="500" alt="srnsht2" src="ThinkAgain/info.jpg">
+*An info about makers*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="500" alt="srnsht3" src="ThinkAgain/2.jpg">
+<img width="500" alt="srnsht4" src="ThinkAgain/3.jpg">
+<img width="500" alt="srnsht5" src="ThinkAgain/4.jpg">
+*Choosing level of overthinking*
+
+
+<img width="500" alt="srnsht6" src="ThinkAgain/5.jpg">
+*To enter prompt*
+
+
+<img width="500" alt="srnsht7" src="ThinkAgain/6.jpg">
+*Entering a confusion*
+
+<img width="500" alt="srnsht8" src="ThinkAgain/7.jpg">
+*Final Output*
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="500" alt="WorkFLow" src="ThinkAgain/Screenshot 2024-10-26 071830.png">
+*Enter into the homepage.Set the level of Overthinking.If Start Ovethinking is pressed then redirect to input.Enter the prompt and press Analyse Decision.Output is generated*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[Watch the demo video](ThinkAgain/demo.mp4)
+*Entering into the homepage.Setting the level of Overthinking.Start Ovethinking is pressed then redirected to input.Entering the prompt and pressing Analyse Decision.Output is generated*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anwin: Building UI & Node.js Server
+- Fahim: IOS Developement & Backend
+- Karthik: Idea & Documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
