@@ -44,7 +44,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1280" alt="readme-banner" src="https://drive.google.com/file/d/1qOvkDlU02f5V5vu4fhbeo-csSZE6PAeF/view?usp=sharing">
+
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
