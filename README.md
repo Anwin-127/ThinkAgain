@@ -25,7 +25,7 @@ For Software:
 - Languages used:Dart,JavaScript
 - Frameworks used:LLama 3B-8B-8192 for Model,Flutter for UI
 - Libraries used:Google Fonts,HTTP Client
-- Tools used:VS Code,Android Studio
+- Tools used:VS Code,Android Studio,Render
 ### Implementation
 For Software:
 # Installation
