@@ -22,17 +22,17 @@ ThinkAgain makes every tiny decision feel monumental by adding wild “what-ifs,
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages used:Dart,JavaScript
+- Frameworks used:LLama 3B-8B-8192 for Model,Flutter for UI
+- Libraries used:Google Fonts,HTTP Client
+- Tools used:VS Code,Android Studio
 ### Implementation
 For Software:
 # Installation
 [commands]
 
 # Run
-[commands]
+flutter run
 
 ### Project Documentation
 For Software:
@@ -69,16 +69,14 @@ For Software:
 
 ### Project Demo
 # Video
-ThinkAgain/demo.mp4
-*Explain what the video demonstrates*
+[Watch the demo video](ThinkAgain/demo.mp4)
+*Entering into the homepage.Setting the level of Overthinking.Start Ovethinking is pressed then redirected to input.Entering the prompt and pressing Analyse Decision.Output is generated*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anwin: Building UI & Node.js Server
+- Fahim: IOS Developement & Backend
+- Karthik: Idea & Documentation
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
