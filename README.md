@@ -60,7 +60,6 @@ Open Manually on the Device
 
 
 ### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 <img width="500" alt="srnsht1" src="ThinkAgain/1.jpg">
