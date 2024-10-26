@@ -46,13 +46,27 @@ For Software:
 # Screenshots (Add at least 3)
 <img width="500" alt="srnsht1" src="ThinkAgain/1.jpg">
 
-*Add caption explaining what this shows*
+*Home page of the app*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="500" alt="srnsht2" src="ThinkAgain/info.jpg">
+*An info about makers*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="500" alt="srnsht3" src="ThinkAgain/2.jpg">
+<img width="500" alt="srnsht4" src="ThinkAgain/3.jpg">
+<img width="500" alt="srnsht5" src="ThinkAgain/4.jpg">
+*Choosing level of overthinking*
+
+
+<img width="500" alt="srnsht6" src="ThinkAgain/5.jpg">
+*To enter prompt*
+
+
+<img width="500" alt="srnsht7" src="ThinkAgain/6.jpg">
+*Entering a confusion*
+
+<img width="500" alt="srnsht8" src="ThinkAgain/7.jpg">
+*Final Output*
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
