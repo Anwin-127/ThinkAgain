@@ -69,7 +69,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+ThinkAgain/demo.mp4
 *Explain what the video demonstrates*
 
 # Additional Demos
