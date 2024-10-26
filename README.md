@@ -29,8 +29,11 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+1. **Download the APK File**: Download the APK file from Google Drive using [this link](https://drive.google.com/drive/folders/1FYgKQ7eeaWdVYP6NwKbz3_sj_0u-bSLz?usp=sharing).
 
+2. **Install the APK on Your Android Device**:
+     - Transfer the downloaded `base.apk` to your Android device.
+     - Open the file on your device to initiate installation (you may need to allow installations from unknown sources in your device settings).
 # Run
 flutter run
 
