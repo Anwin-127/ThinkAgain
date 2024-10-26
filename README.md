@@ -26,12 +26,6 @@ For Software:
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
 For Software:
 # Installation
@@ -69,28 +63,8 @@ For Software:
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
+<img width="500" alt="WorkFLow" src="ThinkAgain/Screenshot 2024-10-26 071830.png">
+*Enter into the homepage.Set the level of Overthinking.If Start Ovethinking is pressed then redirect to input.Enter the prompt and press Analyse Decision.Output is generated*
 ### Project Demo
 # Video
 [Add your demo video link here]
