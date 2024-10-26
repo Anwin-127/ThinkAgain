@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class DecisionAnalysisService {
   static Future<String> getDecisionAnalysis(String decision) async {
-    final url = Uri.parse("http://192.168.47.84:5000/chat");
+    final url = Uri.parse("https://llama-server-z9dg.onrender.com/chat");
     final response = await http.post(
       url,
       headers: {"Content-Type": "application/json"},
