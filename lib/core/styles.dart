@@ -16,10 +16,10 @@ class AppStyles {
     titleMedium: GoogleFonts.poppins(
       fontSize: 18.0,
       fontWeight: FontWeight.w500,
-      color: Colors.grey[700],
+      color: Colors.white,
     ),
     bodyLarge: GoogleFonts.poppins(
-      fontSize: 16.0,
+      fontSize: 16.0,fontWeight: FontWeight.w500,
       color: Colors.black87,
     ),
     bodyMedium: GoogleFonts.poppins(

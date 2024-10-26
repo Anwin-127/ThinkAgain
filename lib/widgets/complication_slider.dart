@@ -16,17 +16,26 @@ class _ComplicationSliderState extends State<ComplicationSlider> {
           'Set Your Overthinking Level',
           style: Theme.of(context).textTheme.titleMedium,
         ),
-        Slider(
-          value: _currentValue,
-          min: 1.0,
-          max: 3.0,
-          divisions: 2,
-          label: _getSliderLabel(_currentValue),
-          onChanged: (double value) {
-            setState(() {
-              _currentValue = value;
-            });
-          },
+        SizedBox(height: 10),
+        Container(
+          decoration: BoxDecoration(
+            color: Colors.teal[50], // Semi-transparent background
+            borderRadius: BorderRadius.circular(8),
+          ),
+          child: Slider(
+            value: _currentValue,
+            min: 1.0,
+            max: 3.0,
+            divisions: 2,
+            label: _getSliderLabel(_currentValue),
+            activeColor: Colors.teal,
+            inactiveColor: Colors.teal[100],
+            onChanged: (double value) {
+              setState(() {
+                _currentValue = value;
+              });
+            },
+          ),
         ),
       ],
     );
